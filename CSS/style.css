@@ -1,0 +1,44 @@
+body {
+    background-color: #ddd;
+    font-family: Arial, sans-serif;
+    text-align: center center;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    text-align: center;
+    padding-top: 10%;
+    margin: 20px auto;
+    max-width: 300px;
+    
+}
+
+label { 
+    display:block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button 
+
+#navButton, #geoButton {
+    margin-top: 20px;
+}
